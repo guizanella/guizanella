@@ -1,7 +1,6 @@
 ### Opa!! Eu sou o Guilherme👋
 
 - 📖 Cursando Engenharia de Software na UTFPR - DV
-- 🌱 Aprendendo C e Python
 - 📫 Contato: guizanella3@gmail.com
 
 ##
