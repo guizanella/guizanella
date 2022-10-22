@@ -1,7 +1,7 @@
-### Opa!! Eu sou o Guilherme👋
+## Opa!! Eu sou o Guilherme👋
 
-- 📖 Cursando Engenharia de Software na UTFPR - DV
-- 📫 Contato: guizanella3@gmail.com
+* 📖 Cursando Engenharia de Software na UTFPR - DV
+* 📫 Contato: guizanella3@gmail.com
 
 ##
 
